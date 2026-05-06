@@ -9,7 +9,7 @@
 [![Vim Version](https://img.shields.io/badge/Vim-8.0%2B-019733?logo=vim&logoColor=white)](https://www.vim.org/)
 [![Neovim](https://img.shields.io/badge/Neovim-0.5%2B-57A143?logo=neovim&logoColor=white)](https://neovim.io/)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: BSD 2-Clause](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Shell Script](https://img.shields.io/badge/installer-bash-4EAA25?logo=gnu-bash&logoColor=white)](./install.sh)
 
