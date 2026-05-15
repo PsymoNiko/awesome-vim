@@ -77,6 +77,8 @@ let g:ycm_semantic_triggers = {'python': ['.']}
 let g:SimpylFold_docstring_preview = 1
 let python_highlight_all = 1
 let NERDTreeIgnore = ['\.pyc$', '\~$']
+nnoremap <C-b>  :YcmCompleter GoToDefinition<CR>
+nnoremap <Esc>1 :NERDTreeToggle<CR>
 
 autocmd BufWritePre *.py silent! execute 'YapfFormat'
 
